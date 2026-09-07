@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ecodes.in)",
+      "WebFetch(domain:zahidarchitects.blogspot.com)",
+      "PowerShell(Start-Process \"c:\\\\Users\\\\DELL\\\\Desktop\\\\zahid arch\\\\index.html\")",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"c:\\\\Users\\\\DELL\\\\Desktop\\\\zahid arch\\\\images\")"
+    ]
+  }
+}
